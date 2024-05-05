@@ -21,6 +21,11 @@ Welcome to the Magical Arena! This project simulates a combat arena where two pl
 3. **Execution**: Run the code with `java Main`.
 4. **Output**: The program will output the result of the battle, indicating which player won the game.
 
-## Sample Output
+##Sample Input
+
+
+
+##Sample Output
 Player 2 won the game!
+![image](https://github.com/VYasmeen/MagicalArena/assets/70378893/8b496ebe-cb70-476a-bba1-a14d77a78ec7)
 
